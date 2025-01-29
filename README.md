@@ -44,11 +44,8 @@ Before running the project, ensure you have the following installed:
 4. The processed image with detected objects will be saved in the same directory as the input image, with "_detected" appended to its name.
 
 ## Example
-### Input Image
-![Example Input](path/to/example-input.jpg)
-
-### Output Image
-![Example Output](path/to/example-output.jpg)
+### Input Image & Output Image
+![Example]([path/to/example-input.jpg](https://imgur.com/a/pphbkOo))
 
 ## Code Highlights
 - **YOLOv5 Model**: The `yolov5x` model is loaded via PyTorch Hub for state-of-the-art object detection.
