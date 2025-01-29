@@ -45,7 +45,7 @@ Before running the project, ensure you have the following installed:
 
 ## Example
 ### Input Image & Output Image
-![Example](https://imgur.com/a/pphbkOo))
+[Example](https://imgur.com/a/pphbkOo)
 
 ## Code Highlights
 - **YOLOv5 Model**: The `yolov5x` model is loaded via PyTorch Hub for state-of-the-art object detection.
