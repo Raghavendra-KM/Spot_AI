@@ -67,3 +67,8 @@ This project is licensed under the MIT License.
 ## Acknowledgments
 - [Ultralytics](https://github.com/ultralytics/yolov5) for providing the YOLOv5 framework.
 - The open-source community for supporting PyTorch and OpenCV.
+
+## Author
+**Raghavendra KM**  
+[GitHub](https://github.com/Raghavendra-KM)
+[LinkedIn](https://linkedin.com/in/raghavendrakm08)
