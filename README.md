@@ -21,7 +21,7 @@ Before running the project, ensure you have the following installed:
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/ai-object-detection.git
+   git clone https://github.com/Raghavendra-KM/Spot_AI.git
    cd ai-object-detection
    ```
 
@@ -38,7 +38,7 @@ Before running the project, ensure you have the following installed:
 1. Place your input image in the project directory or note its path.
 2. Run the script:
    ```bash
-   python object_detection.py
+   python Spot_AI.py
    ```
 3. Enter the path to your input image when prompted.
 4. The processed image with detected objects will be saved in the same directory as the input image, with "_detected" appended to its name.
