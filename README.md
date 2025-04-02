@@ -48,7 +48,9 @@ Before running the project, ensure you have the following installed:
 
 ![INPUT-UNIDENTIFIED](https://github.com/user-attachments/assets/9ce63bb9-cae6-4fb9-8614-8b25c336661a)
 
-![Uploading OUTPUT-CARS IDENTIFIED.png…]()
+
+![OUTPUT-CARS IDENTIFIED](https://github.com/user-attachments/assets/70044519-cea0-4d9c-9b0d-3013db5c70e4)
+
 
 
 ## Code Highlights
