@@ -45,7 +45,11 @@ Before running the project, ensure you have the following installed:
 
 ## Example
 ### Input Image & Output Image
-[Example](https://imgur.com/a/pphbkOo)
+
+![INPUT-UNIDENTIFIED](https://github.com/user-attachments/assets/9ce63bb9-cae6-4fb9-8614-8b25c336661a)
+
+![Uploading OUTPUT-CARS IDENTIFIED.png…]()
+
 
 ## Code Highlights
 - **YOLOv5 Model**: The `yolov5x` model is loaded via PyTorch Hub for state-of-the-art object detection.
